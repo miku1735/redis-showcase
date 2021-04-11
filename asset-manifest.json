@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redis-showcase/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/redis-showcase/static/js/main.2273b0bd.chunk.js",
+    "main.js.map": "/redis-showcase/static/js/main.2273b0bd.chunk.js.map",
+    "runtime-main.js": "/redis-showcase/static/js/runtime-main.1fde9b0c.js",
+    "runtime-main.js.map": "/redis-showcase/static/js/runtime-main.1fde9b0c.js.map",
+    "static/js/2.5b07eb09.chunk.js": "/redis-showcase/static/js/2.5b07eb09.chunk.js",
+    "static/js/2.5b07eb09.chunk.js.map": "/redis-showcase/static/js/2.5b07eb09.chunk.js.map",
+    "static/js/3.510f889f.chunk.js": "/redis-showcase/static/js/3.510f889f.chunk.js",
+    "static/js/3.510f889f.chunk.js.map": "/redis-showcase/static/js/3.510f889f.chunk.js.map",
+    "index.html": "/redis-showcase/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/redis-showcase/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5b07eb09.chunk.js.LICENSE.txt": "/redis-showcase/static/js/2.5b07eb09.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/redis-showcase/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fde9b0c.js",
+    "static/js/2.5b07eb09.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.2273b0bd.chunk.js"
+  ]
+}
